@@ -9,14 +9,17 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+## For Cloud Application
+``
+Visit the url given below:
+https://huggingface.co/spaces/Shreyashchawda12/Health_Consulting_Chatbot
+``
 
 ## For Local Machine
-### Create API KEY
-``
-Create .env file and add GOOGLE_API_KEY \n
-visit https://makersuite.google.com/app/apikey website and create API Key and store in .env file
-``
-
+### clone this repository
+```Bash
+git clone https://github.com/Shreyashchawda12/Health_Consulting_Chatbot.git
+```
 ### created a environment using Annaconda
 ```Bash
 conda create -p "gen_venv" python==3.10 -y
