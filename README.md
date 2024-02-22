@@ -11,9 +11,11 @@ license: mit
 ---
 ## For Cloud Application
 ``
-Visit the url given below:
-https://huggingface.co/spaces/Shreyashchawda12/Health_Consulting_Chatbot
+Visit below url for using this application:
 ``
+```Bash
+https://huggingface.co/spaces/Shreyashchawda12/Health_Consulting_Chatbot
+```
 
 ## For Local Machine
 ### clone this repository
